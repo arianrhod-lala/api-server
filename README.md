@@ -1,2 +1,9 @@
-This API is a simple RESTful API with features like user authentication with the use of JWT tokens and deploying microservices using Node.js, Express, and JWT.
-Lab introduced Postman, used to test the API created. 
+# Week 3 Laboratory: API Development and Microservices
+
+## Simple RESTful API with user authentication written in JavaScript
+
+### Lab Requirements
+**Software:** VS Code, Node.js (LTS version), Postman
+**Packages:** express, jsonwebtoken, bcryptjs, body-parser, nodemon
+
+This project is about building an API laboratory project with JavaScript, using jsonwebtoken (JWT) as authentication and deploys a sample product service (microservice).
